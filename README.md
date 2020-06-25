@@ -1,3 +1,28 @@
+
+This is a very simple React app
+
+PURPOSE
+
+I am hoping to provide a simple modal React.js component for use.  
+
+TECHNOLOGY
+
+I used React.js as a frontend library and chose to use class components to implement the modal functionality. This should not be interpretted as the only solution or implementation for Modals.
+
+I also made use of ReactDOM.createPortal() in order to break the Modal Component out of the React tree.
+
+
+
+Happy Coding!!
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
